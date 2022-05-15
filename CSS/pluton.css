@@ -114,7 +114,7 @@ nav .icon {
   display: block;
 }
 nav .icon:hover + ul {
-  height: auto;
+  height: 376.73px;
 }
 @media (min-width: 992px) {
   nav .icon {
